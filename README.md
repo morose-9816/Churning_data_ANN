@@ -2,10 +2,11 @@ A Deep Learning Model :
 
 Multivariate statistical classification technique
 
-using Aritifical Neural Networks(ANN) to identify the problem behind unsual churn rates in a bank.
+by training a Aritifical Neural Networks(ANN) to identify the problem behind unsual churn rates in a bank.
 
 
 Problem : A Dataset consisting of 10,000 customers to identify the problem behind unusual churn rates.
+
           It included customer's credit score, geography, salaries, tenure, no. of products they possess,etc
 
 
