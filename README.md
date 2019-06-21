@@ -1,5 +1,7 @@
 A Deep Learning Model :
+
 Multivariate statistical classification technique
+
 using Aritifical Neural Networks(ANN) to identify the problem behind unsual churn rates in a bank.
 
 
